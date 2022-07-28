@@ -1,1 +1,4 @@
-# h-ri-v-h-i
+x=int(input("enter no"))
+y=int(input("enter second"))
+z=x+y
+print(z)
